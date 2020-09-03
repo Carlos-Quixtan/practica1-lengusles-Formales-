@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "maria",
+        "edad": 78,
+        "activo": true,
+        "promedio": 10
+    },
+    {
+        "nombre": "saul",
+        "edad": 12,
+        "activo": false,
+        "promedio": 91.1212
+    }
+]
